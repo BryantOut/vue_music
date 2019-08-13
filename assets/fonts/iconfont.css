@@ -1,0 +1,41 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1564389393637'); /* IE9 */
+  src: url('iconfont.eot?t=1564389393637#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAQMAAsAAAAACjgAAAPAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDRgqHIIZcATYCJAMcCxAABCAFhG0HXhsaCREVnH/IfiTYMZFf4dOmsRga3AQP/P/VzsVDhldQNRsgfQKcBAgI8/3mHLCdMBGqJGfRoy/8azn3cilMODEh9/PHTJe+cfSzbxOfcUZiXiVWAB1HNEWSpZ8o3wM8w4UJvBsCyEtF6iO69+zvgo1GOEgAIiYyPBDbZUbHkAW2zgw5UyNmYGDLifIKMF3/evGGpsIGiaEQ7jU4rEcInZ8veL5GOZwOfJQDR3lO4HYeKKA+oEHEhbojUGa6Poq8n2JNe8AWnRLKSq94vsbpZMJSaV9EseqC9A9PojFQmCBMBHV+1Hqwyhw3iYwg4PlSBAnPlyFoeL4cwYDnKxAUPF+jYVTx1v4FgRIgaoE4BMTmboVGoRqonj9/WQmjsIVVha3dVdH8yfkmzwXHnLx5FcqkeUJQcufnyyeM2t7j/n33e/fc7txxuXvX1RA6hShAXXKkPNvauMzZVFYs3lzCM3XcC/fsMOFDaMhiBgYUMpPc+cHZ+7lFi+sdzMU9WTjXb4T7/I1lWLChpEuDHuDiGi2DQ+asWbdIGLmL108uETh3oWNBcTeXOSVsV8J1rqPS8gRrglVYHmaC0VBpe6ZctUpmisZVq5Qmu6DpNHXkiELytCNH5BjFfVWHbNoT+q/Yf5rbz09ym/j0s+XCgo44NzU1oC1NRYZMW7o0TVHI6ziZZjc0TVOTDhyYpEQBjVOTyLs762O1Un0Ocfp/rA3/ZNauoMmmL/csxfno/n3EdSCJbZKPbnuCLacGtLm+SqMRv5f+HV9rbYLPmQLyn/UuvW6Vc+2a0mvWfS3h3WDIXNPHnDfUyAwtyAiEpdRgeUMf+kSYF7nzNP4bKnZ4scG/UPtvdj4NwMOQm0XIrEmfsZFwk5y0kpT99FcmWCz97iwXIQCLJVmTEsgr+sH59hflWXnaEqmrQWBTwgaJRQVQ2FTHamJ9MMhHczCx6QR5qUev8/NRjCQUQucB6jIWQFCY7SApyHFQFOYqVhORPzCU9AdT4RTk5dbxivnULPJwFsSKjJIvlSl3RrLpwah9IO+bWJwynfmBuDJGoRd4c3d0kDKOcUMeqRoywi3d4H5oGiYrXCFVr1C1J983YR/kpdzODroREFOQIYkvUkqxjlGnVgff5z9ArteISUzbD+8HCKdcPQl5ghTYu7pL1bYt2zuDXEQpw/sZgrXIDZ3QiGlGbPhuFUgpT5HDaG0gIQ9m0qq9+rXtcl4B5CW8r5UUSmhhCFNYwsY4y5R3HSZ13OVbKxjQ6co28Xfn2LHk3q1bHkrMZg==') format('woff2'),
+  url('iconfont.woff?t=1564389393637') format('woff'),
+  url('iconfont.ttf?t=1564389393637') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1564389393637#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-addto:before {
+  content: "\e698";
+}
+
+.icon-nextsong:before {
+  content: "\e69d";
+}
+
+.icon-prevent:before {
+  content: "\e6a0";
+}
+
+.icon-play:before {
+  content: "\e69e";
+}
+
+.icon-previous:before {
+  content: "\e69f";
+}
+
+.icon-movie:before {
+  content: "\e6a4";
+}
+

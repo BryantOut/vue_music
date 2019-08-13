@@ -1,0 +1,21 @@
+{
+  "name": "vue-audio",
+  "version": "1.0.0",
+  "description": "a audio for vue component",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "less": "^3.9.0",
+    "less-loader": "^5.0.0"
+  },
+  "scripts": {
+    "start": "vue serve"
+  },
+  "keywords": [
+    "vue",
+    "audio",
+    "vue-audio"
+  ],
+  "author": "chenzehui",
+  "license": "MIT"
+}
